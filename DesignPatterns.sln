@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Singleton", "DesignPatterns.Singleton\DesignPatterns.Singleton.csproj", "{47C6FA38-AC36-4918-91B8-8FB87526966D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Singleton", "DesignPatterns.Singleton\DesignPatterns.Singleton.csproj", "{47C6FA38-AC36-4918-91B8-8FB87526966D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdapterPattern", "AdapterPattern", "{4EA7F58C-2565-46F0-B26E-769FEFD6B368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Adapter", "DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{C5C775C0-E221-4694-BDE2-C8229DC004AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Adapter", "DesignPatterns.Adapter\DesignPatterns.Adapter.csproj", "{C5C775C0-E221-4694-BDE2-C8229DC004AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystemAdapter", "PayrollSystemAdapter\PayrollSystemAdapter.csproj", "{56A63C1E-5581-41CA-80DE-7CDF488CB476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayrollSystemAdapter", "PayrollSystemAdapter\PayrollSystemAdapter.csproj", "{56A63C1E-5581-41CA-80DE-7CDF488CB476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{3FADEE6C-853B-4C71-B89A-43CEB50296E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{3FADEE6C-853B-4C71-B89A-43CEB50296E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.SimpleFactory", "DesignPatterns.SimpleFactory\DesignPatterns.SimpleFactory.csproj", "{1C3962EA-6630-4944-AB9C-C5EB652AFAB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{3FADEE6C-853B-4C71-B89A-43CEB50296E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FADEE6C-853B-4C71-B89A-43CEB50296E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FADEE6C-853B-4C71-B89A-43CEB50296E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3962EA-6630-4944-AB9C-C5EB652AFAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3962EA-6630-4944-AB9C-C5EB652AFAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3962EA-6630-4944-AB9C-C5EB652AFAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3962EA-6630-4944-AB9C-C5EB652AFAB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
