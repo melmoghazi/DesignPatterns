@@ -6,6 +6,8 @@
          * 13-Builder Design Pattern
             Type? Creational
             Why? facilitate create the complex objects تسهيل إنشاء الكائنات المعقدة
+            Example: Salary Calculator class.
+            Naming convention create class suffix with word Builder.
          */
         static void Main(string[] args)
         {

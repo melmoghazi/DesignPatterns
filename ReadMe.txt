@@ -85,11 +85,15 @@ In 23 Design Patterns
 Not in 23 Design Patterns
 Type? Creational
 Why? facilitate create the complex objects تسهيل إنشاء الكائنات المعقدة
+Example: Salary Calculator class.
+Naming convention create class suffix with word Builder.
 ---------------------------------------------------------------------------------
-14- Decorator Design Pattern
+14- Decorator Design Pattern (wrapper)
 In 23 Design Patterns
 Type? Structural
 Why? To update or add new functionality to an object at runtime.
+Example: OrderProcess wrapper the process method.
+Naming convention create class suffix with word Decorator.
 ---------------------------------------------------------------------------------
 15- Chain of Responsibility Design Pattern
 In 23 Design Patterns

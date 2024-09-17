@@ -7,14 +7,16 @@ namespace DesignPatterns.Decorator
     internal class Program
     {
         /*
-         * 14- Decorator Design Pattern
+         * 14- Decorator Design Pattern (wrapper)
             In 23 Design Patterns
             Type? Structural
             Why? To update or add new functionality to an object at runtime.
+            Example: OrderProcess wrapper the process method.
+            Naming convention create class suffix with word Decorator.
          */
 
         /*
-         * new requirement is to make profiling or to calculator the order time
+         * new requirement is to make profiling, means to calculator the order time
          */
         static void Main(string[] args)
         {
