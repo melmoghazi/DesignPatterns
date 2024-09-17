@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DesignPatterns.Builder
 {
     /*
-     * create builder class for your class sufix the class name with builder word
+     * create builder class for your class suffix the class name with builder word
      * step 1 create variable foreach parameter
      * step 2 foreach variable create method that return the builder class
      * step 3 create Build method that return SalaryCalculator object

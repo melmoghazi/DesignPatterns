@@ -97,4 +97,9 @@ Naming convention create class suffix with word Decorator.
 ---------------------------------------------------------------------------------
 15- Chain of Responsibility Design Pattern
 In 23 Design Patterns
+Type? Behavioural
+Why? chain of objects to process a request.
+Example: middlewares in dotnet.
+Example: Vacation day request approval workflow.
+
 ---------------------------------------------------------------------------------
